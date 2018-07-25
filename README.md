@@ -1,8 +1,8 @@
 SpringMVC_Showcases
 -------------------
-Origin repository: https://github.com/spring-projects/spring-mvc-showcase
+Origin repository: https://github.com/spring-projects/spring-mvc-showcase.
 I forked it and add my comments(CHS) in it for learning propose.
-Below is the origin README.md
+Below is the origin README.md.
 
 Spring MVC Showcase
 -------------------
